@@ -1,3 +1,4 @@
+#Original Source: https://github.com/hildebrandmw/de10lite-hdl/blob/master/components/dram/example.sdc
 #**************************************************************
 # Create Clock
 #**************************************************************
